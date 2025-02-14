@@ -31,6 +31,7 @@ let questions: { question: string, options: string[], answer: string }[] = [
 // questions.forEach((val, index) => {
 //   console.log(`Question${index + 1}. ${val.question} (Answer: ${val.answer})`);
 // });
+console.log(" my name is sachin");
 
 
 console.log("\n=== Quiz Game ===");
