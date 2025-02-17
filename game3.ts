@@ -152,6 +152,7 @@ switch (choice) {
       console.log("Invalid question number.");
     }
     break;
+    
 
   // View High Score (After the game Ending!)
   case 5:
